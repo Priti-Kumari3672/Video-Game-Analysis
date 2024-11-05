@@ -1,3 +1,5 @@
+# Video Game Analysis
+
 # Exploratory Data Analysis of Video Game Dataset
 I am very fond of Video Games. In this project I have solely used Python only for data cleaning, EDA- Exploratory Data Analysis as well as Data Visualizaion to derive insights from the given dataset. I started with cleaning the data and soon got indulged in fascinating trends which came during my analysis
 # 1. Data Collection
